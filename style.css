@@ -114,7 +114,7 @@ a.btn:hover
 }
 .header
 {
-    background-image:url(../../WEBINAR/pictures/background1.jpg) ;
+    background-image:url(../webinarproject/pictures/background1.jpg) ;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
