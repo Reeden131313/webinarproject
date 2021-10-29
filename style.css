@@ -35,7 +35,7 @@ li a
 }
 .p1
 {
-    font-size: 50px;
+    font-size: 300%;
     margin: 20px 0;
     color: darkgoldenrod;
 }
@@ -43,6 +43,7 @@ li a
 {
     font-size: medium;
     color: #fff;
+    
 }
 .p3
 {
@@ -51,19 +52,19 @@ li a
 }
 .p4
 {
-    margin-left: 22%;
+    margin-left: 10%;
     color: #fff;
 }
 .h11
 {
-    font-size: 100%;
+    font-size: 400%;
    color: #fff;
    margin-top: 25px;
 }
 .h12
 {
-    margin-top: 100px;
-    font-size: 100px;
+    margin-top: 25px;
+    font-size: 65px;
    color: #fff;
 }
 .l1
@@ -123,9 +124,9 @@ li a
 }
 a.btn
 {
-margin: 30px 10px;
-width:  150px;
-padding: 10px;
+margin: 10% 3%;
+width: 35%;
+padding: 3%;
 border-radius: 20px;
 
 
@@ -135,7 +136,7 @@ a.btn-first
      background: transparent;
 border: 1px solid darkgoldenrod;
 color: #fff;
-margin-left: 18%;
+margin-left: 11%;
 }
 
 a.btn-second
