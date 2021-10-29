@@ -68,15 +68,56 @@ li a
 }
 .l1
 {
-    width: 250px;
-    height: 250px;
+    width: 45%;
+    height: 45%;
     margin: 3px;
     border: 6px double goldenrod;
 }
 .l1:hover
 {
-    width: 230px;
-    height: 230px;
+    width: 43%;
+    height: 43%;
+    box-shadow: 5px 5px 10px #333;
+    filter: brightness(20%);
+}
+.l2
+{
+    width: 45%;
+    height: 40%;
+    margin: 3px;
+    border: 6px double goldenrod;
+}
+.l2:hover
+{
+    width: 43%;
+    height: 38%;
+    box-shadow: 5px 5px 10px #333;
+    filter: brightness(20%);
+}
+.l3
+{
+    width: 46%;
+    height: 60%;
+    border: 6px double goldenrod;
+}
+.l3:hover
+{
+    width: 45%;
+    height: 55%;
+    box-shadow: 5px 5px 10px #333;
+    filter: brightness(20%);
+}
+.l4
+{
+    width: 46%;
+    height: 60%;
+    margin: 3px;
+    border: 6px double goldenrod;
+}
+.l4:hover
+{
+     width: 44%;
+    height: 58%;
     box-shadow: 5px 5px 10px #333;
     filter: brightness(20%);
 }
